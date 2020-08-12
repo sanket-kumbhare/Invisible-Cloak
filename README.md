@@ -1,8 +1,7 @@
 # Little description about how it works.
 
 Packages used:
-opencv-python, vesion: 4.2.o.32
-numpy, version: 1.19.1
+opencv-python 4.2.0.32, numpy 1.19.1
  
  1. First we start the webcam. And stores the starting frame in background variable.
  2. After that we convert our normal RGB video frames to HSV so that we detect the color of the cloth.
